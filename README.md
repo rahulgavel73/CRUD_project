@@ -2,6 +2,9 @@
 
 A user profile manager with full CRUD (Create, Read, Update, Delete) built with HTML, CSS, and vanilla JavaScript. Data is saved in the browser, so it stays after a refresh.
 
+live link
+https://rahulgavel73.github.io/CRUD_project
+
 ## ✨ Features
 
 - Create a user with name, email, and profile image URL
@@ -47,5 +50,5 @@ No installation needed.
 
 ## 👤 Author
 
-**[Your Name]**
+**rahulgavel73**
 GitHub: [@rahulgavel73](https://github.com/rahulgavel73)
